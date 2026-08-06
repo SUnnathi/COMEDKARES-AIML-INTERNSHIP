@@ -14,7 +14,7 @@
 | Day | Topic | Notes | Design Challenge |
 |-----|-------|-------|------------------|
 | 1 |syntax,variables,conditionstatements,loopingstatements|[Notes](/DAY1/NOTES.MD)|[desingn](/DAY1/designchallenge.py)|
-| 2 | | | |
+| 2 |characters,lists,tulep,functions |notes(/Day2/) | |
 | 3 | | | |
 | 4 | | | |
 | 5 | | | |
