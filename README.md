@@ -11,11 +11,11 @@
 
 </div>
 
-| Day | Topic | Notes | Design Challenge |collab notebook|
+| Day | Topic | Notes | Design Challenge |
 |-----|-------|-------|------------------|---------------||
-| 1 |syntax,variables,conditionstatements,loopingstatements|[Notes](/DAY1/NOTES.MD)|[desingn](/DAY1/designchallenge.py)||
-| 2 |characters,lists,tulep,functions |[NOTES](/DAY2/) |[design](/DAY3/designchallenge.py) ||
-| 3 |simpleprograms,numpy |[NOTES](DAY3/NOTES.MD) |[design](DAY3/designchallenge.py) ||
+| 1 |syntax,variables,conditionstatements,loopingstatements|[Notes](/DAY1/NOTES.MD)|[desingn](/DAY1/designchallenge.py)|
+| 2 |characters,lists,tulep,functions |[NOTES](/DAY2/) |[design](/DAY3/designchallenge.py) |
+| 3 |simpleprograms,numpy |[NOTES](DAY3/NOTES.MD) |[design](DAY3/designchallenge.py) |
 | 4 | | | |
 | 5 | | | |
 | 6 | | | |
