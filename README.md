@@ -15,7 +15,7 @@
 |-----|-------|-------|------------------|---------------|
 | 1 |syntax,variables,conditionstatements,loopingstatements|[Notes](/DAY1/NOTES.MD)|[desingn](/DAY1/designchallenge.py)||
 | 2 |characters,lists,tulep,functions |[NOTES](/DAY2/) |[design](/DAY3/designchallenge.py) ||
-| 3 |simpleprograms,numpy |[NOTES](DAY3/NOTES.MD) |[design](DAY3/designchallenge.py) |
+| 3 |simpleprograms,numpy |[NOTES](DAY3/NOTES.MD) |[design](DAY3/designchallenge.py) |[Collab](DAY3/Copy_of_Netflix__Data_analysis_py.ipyn)
 | 4 | | | |
 | 5 | | | |
 | 6 | | | |
