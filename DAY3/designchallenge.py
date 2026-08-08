@@ -66,4 +66,23 @@ topper = df.loc[df["Average"].idxmax()]
 
 print("\nTopper:")
 print("Name:", topper["Name"])
-print("Average:", round(topper["Average"], 2))
+print("Average:", round(topper["Average"], 2))\
+
+
+
+the proper basic python program done was the given below
+
+subjects=("Python","SQL","AI")
+students=[]
+
+def add_student(name,age):
+    student={"Name":name,"Age":age}
+    students.append(student)
+    
+add_student("Rahul",20)
+add_student("Ananya",21)
+add_student("Kiran",22)
+
+print("Subjects:",subjects)
+for student in students:
+    print(student)
